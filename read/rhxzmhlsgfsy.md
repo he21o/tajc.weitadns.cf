@@ -12,13 +12,15 @@
 
 跟天天酷跑等跑酷类游戏差不多，只是去掉了蹲下键，通关办法就是使用道具打残在追你的汤姆，然后用你跑酷技术直到出现摆成“WIN！”的奶酪，进入*老鼠洞*就可以通关：
     
-    <center>
-    <blockquote>
-    <h4>GIF：</h4>
-    <img src="https://s.pc.qq.com/tousu/img/20210721/4712648_1626865918.jpg" width="100%"/>
-    <h6>b站视频gif截图:BV1EA411b7Gh</h6>
-    </blockquote>
-    </center>
+
+<center>
+<blockquote>
+<h4>GIF：</h4>
+<img src="https://s.pc.qq.com/tousu/img/20210721/4712648_1626865918.jpg" width="100%"/>
+<h6>b站视频gif截图:BV1EA411b7Gh</h6>
+</blockquote>
+</center>
+
 
 - 下载链接：
 
