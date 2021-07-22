@@ -27,8 +27,7 @@
 
 <blockquote>
 <form method="get" action="https://ifuck.oss-cn-hongkong.aliyuncs.com/ifuckapk/94b33297fa489617ac979bd51c7cb0ba.apk">
-<button type="submit">下载通道1</button>
-
+<button type="submit">下载通道1</button><br>
 <form method="get" action="https://rtao-my.sharepoint.com/:u:/g/personal/sui_skybreezy_com/Eb2eRSROHhVLrU8wevUP3tEBsPl2m63wMLoRfyqgfvl_XQ?e=2eMbXV">
 <button type="submit">下载通道2</button>
 
