@@ -30,7 +30,9 @@
 - 其他下载方式：
 
 <blockquote>
-https://url.cy/cQn3Q4（https://url.cy/cQn3Q4）
 
-https://url.cy/hgTzA1（https://url.cy/hgTzA1）
+https://url.cy/cQn3Q4
+
+https://url.cy/hgTzA1
+
 </blockquote>
