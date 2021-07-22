@@ -25,10 +25,7 @@
 
 - 下载方式1：
 
-<blockquote>
-<form method="get" action="https://ifuck.oss-cn-hongkong.aliyuncs.com/ifuckapk/94b33297fa489617ac979bd51c7cb0ba.apk">
-<button type="submit">下载通道</button><br>
-</blockquote>
+<blockquote><form method="get" action="https://ifuck.oss-cn-hongkong.aliyuncs.com/ifuckapk/94b33297fa489617ac979bd51c7cb0ba.apk"><button type="submit">下载通道</button></blockquote>
 
 - 其他下载方式：
 
