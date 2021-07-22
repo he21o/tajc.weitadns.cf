@@ -24,6 +24,4 @@
 
 - 下载链接：
 
-<form action="https://ifuck.oss-cn-hongkong.aliyuncs.com/ifuckapk/94b33297fa489617ac979bd51c7cb0ba.apk" method="post" >
-    <input type="button" value="下载渠道1"/>
-</form>
+<a href="https://ifuck.oss-cn-hongkong.aliyuncs.com/ifuckapk/94b33297fa489617ac979bd51c7cb0ba.apk" class="button">下载通道1</a>
